@@ -1,4 +1,4 @@
-# Lofi-vibez
+# Lofi-vibes
 
 Web3 community bringing immense vibez to the blockchain.
 
