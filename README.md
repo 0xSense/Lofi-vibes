@@ -1,5 +1,5 @@
 ### Lofi-vibes
 
-Lofi-vibes a Dapp for channeling your flow state
+Lofi-vibes a Dapp channeling your flow state
 
 
