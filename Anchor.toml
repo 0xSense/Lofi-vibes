@@ -1,10 +1,11 @@
 [features]
 seeds = false
+skip-lint = false
 [programs.localnet]
 lofi_vibes = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
 
 [registry]
-url = "https://anchor.projectserum.com"
+url = "https://api.apr.dev"
 
 [provider]
 cluster = "localnet"
